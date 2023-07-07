@@ -1,0 +1,27 @@
+# Proyecto Parecido al reto 1 o 2
+# Si sobra tiempo veremos pandas
+
+RETO/ EJERCICIO
+La empresa en la que trabajas recibe una gran cantidad de materias primas y otros productos 
+en su inventario, los cuales son registrados y manejados en hojas de papel que describen 
+nombres, cantidades, precios, tipos y tamaños de cada producto que entra y sale. 
+Recientemente se perdieron algunas hojas y se tomó la decisión de digitalizar este proceso. 
+Dado esto, se te pide que desarrolles un programa en Python, en el cual, la persona encargada
+ de registrar entradas y salidas de inventarios, mediante la terminal del sistema operativo
+  pueda hacer estos registros fácilmente.
+
+La tarea se deberá llevar a cabo utilizando funciones para añadir nuevos artículos, 
+actualizar cantidades y buscar artículos específicos basándose en varios criterios. 
+Se deberán utilizar funciones lambda para ordenar el inventario en función de diferentes 
+atributos, como ordenar los artículos por nombre, cantidad o precio. Además, se deberán 
+emplear funciones anidadas para gestionar operaciones complejas, como generar informes 
+de inventario o calcular el valor total del inventario. 
+
+Se deberá subir este archivo de Python a un repositorio Github, junto con un archivo 
+README.md que explique cómo utilizar el programa.
+
+Se evaluará el uso de funciones y funciones lambda para agregar (con diferentes datos 
+incluyendo fecha con la paquetería datetime), editar, leer, y borrar productos del inventario, 
+que todo funcione correctamente y que contenga el archivo README.
+
+Y otras 3 funciones…

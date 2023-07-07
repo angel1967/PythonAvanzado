@@ -1,0 +1,1 @@
+# Utiliza la funcion zip() para iterar en 2 listas (ya lo hicimos)
